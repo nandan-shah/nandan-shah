@@ -20,6 +20,11 @@ I'm a 2nd year undergraduate at National Institute of Technology, Silchar. I lov
     - ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)&nbsp; ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)&nbsp;
     - <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" height="20">cmd  
     - Adobe Lightroom
+ <br>
+<!-- ![MY github stats](https://github-readme-stats.vercel.app/api?username=nandan-shah&show_icons=true&hide_border=true) -->
+<h3>Github Stats</h3>
+<img height="137.3px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nandan-shah&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=7&exclude_repo=comp426&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" />
+
 ## 📫 Social Media
 <p align="center">
 	<a href="https://www.linkedin.com/in/nandan-kumar-9b8447199/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
