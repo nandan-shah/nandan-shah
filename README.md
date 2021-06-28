@@ -1,5 +1,5 @@
 <img src="https://raw.githubusercontent.com/joetancy/joetancy/master/wave%20(1).jpg"/>
-<h2 align="center">Hello there! My name is Nandan Kumar. <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h2>
+<h2 align="center">Hello there! My name is Nandan. <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h2>
 
 
 I'm a 2nd year undergraduate at the National Institute of Technology, Silchar. I love to explore and learn new things. I also love to solve  problems on [Codechef](https://www.codechef.com/users/nandan00) and [Hackerrank](https://www.hackerrank.com/nandan2583).
