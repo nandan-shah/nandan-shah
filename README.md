@@ -1,9 +1,12 @@
+<img src="https://raw.githubusercontent.com/joetancy/joetancy/master/wave%20(1).jpg"/>
 <h2 align="center">Hello there! My name is Nandan Kumar. <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h2>
 
 
-I'm a 2nd year undergraduate at National Institute of Technology, Silchar. I love to explore and learn new things. I also love to solve  problems on [Codechef](https://www.codechef.com/users/nandan00) and [Hackerrank](https://www.hackerrank.com/nandan2583).
+I'm a 2nd year undergraduate at the National Institute of Technology, Silchar. I love to explore and learn new things. I also love to solve  problems on [Codechef](https://www.codechef.com/users/nandan00) and [Hackerrank](https://www.hackerrank.com/nandan2583).
 
-
+## My articles on GeeksforGeeks
+- [Literals in Python](https://www.geeksforgeeks.org/literals-in-python/)&nbsp;
+- [Python Operators for Sets and Dictionaries](https://www.geeksforgeeks.org/python-operators-for-sets-and-dictionaries/)&nbsp;
 ## 🎉Skills🎉
 - Programming
     - ![C](https://img.shields.io/badge/-C-333333?style=flat&logo=C&logoColor=A8B9CC)&nbsp; ![C++](https://img.shields.io/badge/-cpp-333333?style=flat&logo=Cpp&logoColor=FFA518)&nbsp; ![Python](https://img.shields.io/badge/-Python-%23000000)&nbsp; (Data Strcutures and Problem Solving)
@@ -22,7 +25,7 @@ I'm a 2nd year undergraduate at National Institute of Technology, Silchar. I lov
     - Adobe Lightroom
  <br>
 <!-- ![MY github stats](https://github-readme-stats.vercel.app/api?username=nandan-shah&show_icons=true&hide_border=true) -->
-<h3>Github Stats</h3>
+<h2>Github Stats</h2>
 <img height="137.3px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nandan-shah&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=7&exclude_repo=comp426&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" />
 
 ## 📫 Social Media
@@ -31,3 +34,4 @@ I'm a 2nd year undergraduate at National Institute of Technology, Silchar. I lov
 	<a href="https://www.facebook.com/nandan.shah.750/"><img src="https://img.icons8.com/bubbles/50/000000/facebook-new.png" alt="Facebook"/></a>
 	<a href="https://www.instagram.com/_nandan.shah/"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
 </p>
+<img src="https://raw.githubusercontent.com/joetancy/joetancy/master/wave.jpg"/>
