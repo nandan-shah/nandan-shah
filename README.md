@@ -1,6 +1,5 @@
-<img src="https://raw.githubusercontent.com/joetancy/joetancy/master/wave%20(1).jpg"/>
-<h2 align="center">Hello there! I'm Nandan. <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h2>
 
+<h2 align="center"><img src="https://readme-typing-svg.herokuapp.com?color=43cbaa&size=40&width=750&height=80&lines=Hello+there!+I'm+Nandan."/></h2>
 
 I'm a 2nd year undergraduate at the National Institute of Technology, Silchar. I love to explore and learn new things. I also love to solve  problems on [Codechef](https://www.codechef.com/users/nandan00) and [Hackerrank](https://www.hackerrank.com/nandan2583).
 
@@ -34,4 +33,3 @@ I'm a 2nd year undergraduate at the National Institute of Technology, Silchar. I
 	<a href="https://www.facebook.com/nandan.shah.750/"><img src="https://img.icons8.com/bubbles/50/000000/facebook-new.png" alt="Facebook"/></a>
 	<a href="https://www.instagram.com/_nandan.shah/"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
 </p>
-<img src="https://raw.githubusercontent.com/joetancy/joetancy/master/wave.jpg"/>
