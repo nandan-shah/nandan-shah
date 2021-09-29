@@ -3,7 +3,7 @@
 
 I'm a 3rd year undergraduate at the National Institute of Technology, Silchar. I love to explore and learn new things. I also love to solve  problems on [Codechef](https://www.codechef.com/users/nandan00) and [Hackerrank](https://www.hackerrank.com/nandan2583).
 
-## My articles on GeeksforGeeks
+<h2 align="center">My articles on GeeksforGeeks</h2>
 - [Literals in Python](https://www.geeksforgeeks.org/literals-in-python/)&nbsp;
 - [Python Operators for Sets and Dictionaries](https://www.geeksforgeeks.org/python-operators-for-sets-and-dictionaries/)&nbsp;
 <!-- ![MY github stats](https://github-readme-stats.vercel.app/api?username=nandan-shah&show_icons=true&hide_border=true) -->
@@ -22,7 +22,7 @@ I'm a 3rd year undergraduate at the National Institute of Technology, Silchar. I
   <img src="https://activity-graph.herokuapp.com/graph?username=nandan-shah&theme=react-dark&bg_color=20232a&hide_border=true" width="100%" alt="github activity graph"/>
 </p>
 
-## 📫 Social Media
+<h2 align="center">📫 Social Media</h2>
 <p align="center">
 	<a href="https://www.linkedin.com/in/nandan-kumar-9b8447199/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
 	<a href="https://www.facebook.com/nandan.shah.750/"><img src="https://img.icons8.com/bubbles/50/000000/facebook-new.png" alt="Facebook"/></a>
