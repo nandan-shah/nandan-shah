@@ -1,11 +1,13 @@
 
 <h2 align="center"><img src="https://readme-typing-svg.herokuapp.com?color=43cbaa&size=40&width=750&height=80&lines=Hello+there!+I'm+Nandan."/></h2>
 
-I'm a 3rd year undergraduate at the National Institute of Technology, Silchar. I love to explore and learn new things. I also love to solve  problems on [Codechef](https://www.codechef.com/users/nandan00) and [Hackerrank](https://www.hackerrank.com/nandan2583).
+I'm a 3rd year undergraduate at the National Institute of Technology, Silchar. I love to explore and learn new things.
 
 <h2 align="center">My articles on GeeksforGeeks</h2>
-- [Literals in Python](https://www.geeksforgeeks.org/literals-in-python/)&nbsp;
-- [Python Operators for Sets and Dictionaries](https://www.geeksforgeeks.org/python-operators-for-sets-and-dictionaries/)&nbsp;
+<ul>
+	<li> <a href=https://www.geeksforgeeks.org/literals-in-python> Literals in Python</a> </li>
+<li><a href=https://www.geeksforgeeks.org/python-operators-for-sets-and-dictionaries/>Python Operators for Sets and Dictionaries</a></li>
+</ul>
 <!-- ![MY github stats](https://github-readme-stats.vercel.app/api?username=nandan-shah&show_icons=true&hide_border=true) -->
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
@@ -26,5 +28,4 @@ I'm a 3rd year undergraduate at the National Institute of Technology, Silchar. I
 <p align="center">
 	<a href="https://www.linkedin.com/in/nandan-kumar-9b8447199/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
 	<a href="https://www.facebook.com/nandan.shah.750/"><img src="https://img.icons8.com/bubbles/50/000000/facebook-new.png" alt="Facebook"/></a>
-	<a href="https://www.instagram.com/_nandan.shah/"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
 </p>
