@@ -20,8 +20,8 @@ I'm a final year undergraduate at the National Institute of Technology, Silchar.
   <div align=center>
     <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nandan-shah&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
   </div>
-  <br>
-  <img src="https://activity-graph.herokuapp.com/graph?username=nandan-shah&theme=react-dark&bg_color=20232a&hide_border=true" width="100%" alt="github activity graph"/>
+<!--   <br>
+  <img src="https://activity-graph.herokuapp.com/graph?username=nandan-shah&theme=react-dark&bg_color=20232a&hide_border=true" width="100%" alt="github activity graph"/> -->
 </p>
 
 <h2 align="center">📫 Social Media</h2>
