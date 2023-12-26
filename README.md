@@ -1,7 +1,7 @@
 
 <h2 align="center"><img src="https://readme-typing-svg.herokuapp.com?color=43cbaa&size=40&width=750&height=80&lines=Hello+there!+I'm+Nandan."/></h2>
 
-I'm a final year undergraduate at the National Institute of Technology, Silchar. I love to explore and learn new things.
+I'm a FULL STACK DEVELOPER, Graduated from the National Institute of Technology, Silchar. I love to explore and learn new things.
 
 <h2 align="center">My articles on GeeksforGeeks</h2>
 <ul>
